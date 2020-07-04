@@ -1,7 +1,5 @@
 TODO
 
-<<<<<<< Updated upstream
-=======
 VR projects to explore (don't worry about them being confusing. I don't understand a lot of it myself)
 -Robo Recall mod kit (large)
 -VR Funhouse mod kit (large)
@@ -14,4 +12,3 @@ Session 2 goals:
 -develop for first person mode
 -look at our project and understand the code
 -add an enemy that chases you and gives extra points
->>>>>>> Stashed changes
