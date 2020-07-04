@@ -1,2 +1,11 @@
 TODO
 
+VR projects to explore:
+Robo Recall mod kit (large)
+VR Funhouse mod kit (large)
+First Person Shooter Template
+
+
+Free up space on C drive & reinstall Unreal Engine there
+
+test change
