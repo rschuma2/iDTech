@@ -1,0 +1,14 @@
+TODO
+
+VR projects to explore (don't worry about them being confusing. I don't understand a lot of it myself)
+-Robo Recall mod kit (large)
+-VR Funhouse mod kit (large)
+-First Person Shooter Template
+-iDTechStarter project (compare with first person shooter template)
+
+Free up space on C drive & re-install Unreal Engine there
+
+Session 2 goals:
+-develop for first person mode
+-look at our project and understand the code
+-add an enemy that chases you and gives extra points
